@@ -9,8 +9,6 @@
 
 > 📦 234.5 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -44,16 +42,21 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      4 mins              ████████░░░░░░░░░░░░░░░░░   30.49 % 
+YAML                     4 mins              ████████░░░░░░░░░░░░░░░░░   30.38 % 
+TOML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+IDEA_MODULE              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+windmill-ai              10 mins             ███████████████████░░░░░░   75.94 % 
+windmill-demo            3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -73,5 +76,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 18:42:30 UTC
+ Last Updated on 09/08/2024 18:41:30 UTC
 <!--END_SECTION:waka-->
