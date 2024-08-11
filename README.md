@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 234.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 73 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +78,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 18:39:00 UTC
+ Last Updated on 11/08/2024 18:41:25 UTC
 <!--END_SECTION:waka-->
