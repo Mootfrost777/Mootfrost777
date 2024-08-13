@@ -9,8 +9,6 @@
 
 > 📦 234.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -78,5 +76,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2024 18:42:56 UTC
+ Last Updated on 13/08/2024 18:42:22 UTC
 <!--END_SECTION:waka-->
