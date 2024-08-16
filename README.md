@@ -9,32 +9,30 @@
 
 > 📦 234.5 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌆 Daytime                546 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌃 Evening                439 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-🌙 Night                  467 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌞 Morning                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                546 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
+🌃 Evening                441 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+🌙 Night                  471 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Wednesday                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 449 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-Friday                   606 commits         █████████░░░░░░░░░░░░░░░░   36.11 % 
-Saturday                 63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Sunday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Wednesday                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Thursday                 453 commits         ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Friday                   627 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
+Saturday                 63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Sunday                   34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -44,25 +42,23 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C#                       1 hr 4 mins         ████████████████████░░░░░   80.79 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-IDEA_MODULE              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C#                       1 hr 51 mins        █████████████░░░░░░░░░░░░   53.31 % 
+XML                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+GitIgnore file           24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Csproj                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+textmate                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-Jetbrainsrider           1 hr 5 mins         █████████████████████░░░░   82.49 % 
-IntelliJ IDEA            13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Jetbrainsrider           3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PtGit                    53 mins             █████████████████░░░░░░░░   67.01 % 
-DangerousD               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-windmill-ai              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-windmill-demo            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+ZoFo                     1 hr 29 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
+DangerousD               1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+PtGit                    53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -82,5 +78,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 18:41:52 UTC
+ Last Updated on 16/08/2024 18:41:16 UTC
 <!--END_SECTION:waka-->
