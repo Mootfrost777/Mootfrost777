@@ -9,6 +9,8 @@
 
 > 📦 234.5 kB Used in GitHub's Storage 
  > 
+> 🏆 181 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -18,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                480 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-🌃 Evening                756 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-🌙 Night                  668 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌞 Morning                665 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌆 Daytime                930 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌃 Evening                992 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+🌙 Night                  893 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Tuesday                  112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Wednesday                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Thursday                 502 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Friday                   837 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Saturday                 534 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Sunday                   222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Monday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Tuesday                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Wednesday                273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   984 commits         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+Saturday                 849 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 
 
@@ -64,11 +66,11 @@ Windows                  3 hrs 30 mins       ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       22 repos            ████████████░░░░░░░░░░░░░   47.83 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C#                       22 repos            ████████████░░░░░░░░░░░░░   46.81 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -78,5 +80,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:42:19 UTC
+ Last Updated on 20/08/2024 18:41:39 UTC
 <!--END_SECTION:waka-->
