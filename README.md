@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 234.5 kB Used in GitHub's Storage 
+> 📦 234.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,22 +42,16 @@ Sunday                   234 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C#                       47 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-XML                      44 mins             ████████░░░░░░░░░░░░░░░░░   31.15 % 
-GitIgnore file           24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Csproj                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-textmate                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           2 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZoFo                     1 hr 29 mins        ███████████████░░░░░░░░░░   61.96 % 
-DangerousD               54 mins             █████████░░░░░░░░░░░░░░░░   37.84 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +71,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:41:47 UTC
+ Last Updated on 23/08/2024 18:41:40 UTC
 <!--END_SECTION:waka-->
