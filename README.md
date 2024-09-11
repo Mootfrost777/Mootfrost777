@@ -9,8 +9,6 @@
 
 > 📦 234.6 kB Used in GitHub's Storage 
  > 
-> 🏆 182 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -59,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       22 repos            ████████████░░░░░░░░░░░░░   46.81 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+C#                       22 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -73,5 +71,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mootfrost777/Mootfrost777/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 18:43:35 UTC
+ Last Updated on 11/09/2024 18:43:53 UTC
 <!--END_SECTION:waka-->
